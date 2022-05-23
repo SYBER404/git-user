@@ -14,7 +14,7 @@
 ```
 #### update 
 ```
-git pull
+• git pull
 ```
 #### Screenshot
 ![foto]()
