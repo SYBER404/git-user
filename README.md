@@ -12,3 +12,9 @@
 • git clone https://github.com/DekuraDev/git-user
 • cd git-user && python github.py
 ```
+#### update 
+```
+git pull
+```
+#### Screenshot
+![foto]()
