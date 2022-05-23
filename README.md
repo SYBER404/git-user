@@ -8,7 +8,7 @@
 • pkg upgrade
 • pkg install python
 • pip install requests
-• pkg install git clone 
+• pkg install git
 • git clone https://github.com/DekuraDev/git-user
 • cd git-user && python github.py
 ```
