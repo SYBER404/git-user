@@ -17,4 +17,4 @@
 • git pull
 ```
 #### Screenshot
-![foto]()
+![foto](https://github.com/DekuraDev/git-user/blob/main/IMG_20220523_070742.jpg)
